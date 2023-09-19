@@ -1,5 +1,5 @@
 {
-    "name"          : "protobuf-php/protobuf-plugin",
+    "name"          : "protobuf-php-8/protobuf-plugin",
     "description"   : "PHP Code generator plugin from Google's Protocol Buffers",
     "keywords"      : ["protobuf", "protocol buffer", "serializing"],
     "homepage"      : "https://github.com/protobuf-php/protobuf-plugin",
